@@ -10,7 +10,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author tipex
+ * @author 
  */
 public class FormBiodata extends javax.swing.JFrame {
 
